@@ -1,1 +1,1 @@
-"OOP is a way of life. -angela merkel 2k19" 
+These are the school project I've completed regarding oop. 
